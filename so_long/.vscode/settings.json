@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"const_var.h": "c",
+		"include.h": "c",
+		"structure.h": "c",
+		"class_functions.h": "c",
+		"class_helper.h": "c",
+		"stdio.h": "c"
+	},
+	"C_Cpp.errorSquiggles": "disabled"
+}

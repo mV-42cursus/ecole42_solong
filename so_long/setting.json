@@ -1,0 +1,24 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.lineNumbers": "relative",
+    "workbench.productIconTheme": "macos-modern",
+    "editor.indentSize": "tabSize",
+    "editor.insertSpaces": false,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.mouseWheelZoom": true,
+    "jupyter.askForKernelRestart": false,
+    "editor.minimap.autohide": true,
+    "editor.inlineSuggest.suppressSuggestions": true,
+    "editor.largeFileOptimizations": false,
+    "explorer.confirmDragAndDrop": false,
+    "editor.minimap.enabled": false,
+    "42header.username": "dong-kim",
+    "42header.email": "dong-kim@student.42seoul.kr",
+    "window.menuBarVisibility": "compact",
+    "workbench.statusBar.visible": false,
+    "editor.fontSize": 13,
+    "editor.cursorStyle": "line-thin",
+    "terminal.integrated.fontFamily": "MesloLGS NF"
+}
